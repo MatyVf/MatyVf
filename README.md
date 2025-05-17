@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MatyVf
-- 👀 I’m interested in data science applied in the mining industry (I’m a mining engeneer)
-- 🌱 I’m currently learning machine learning (clustering and neural networks)
+- 👀 I’m interested in data science/quant finance applied in the mining industry.
+- 🌱 I’m currently learning developing some quant projects.
 - 💞️ I’m looking to collaborate on anything related to machine learning and its aplications in the mining industry
 - 📫 How to reach me: feel free to contact me at my mail matias.vergara.2009@gmail.com
 
